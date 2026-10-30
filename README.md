@@ -1,0 +1,2 @@
+# pythonproblems
+my learning process
